@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "img": "/images/developer.jpg",
+        "position": "Front-End Developer",
+        "salary": "25,000 - 50,000",
+        "job_details": "We are looking for a qualified Front-end developer to join our IT team. You will be responsible for building the 'client-side' of our web applications. You should be able to translate our company and customer needs into functional and appealing interactive applications. \n If you're interested in creating a user-friendly environment by writing code and moving forward in your career, then this job is for you. We expect you to be a tech-savvy professional, who is curious about new digital technologies and aspires to combine usability with visual design. \n Ultimately, you should be able to create a functional and attractive digital environment for our company, ensuring great user experience."
+    },
+    {
+        "id": 2,
+        "img": "/images/developer.jpg",
+        "position": "Back-End Developer",
+        "salary": "25,000 - 50,000",
+        "job_details": "We are looking for an experienced Back-end developer to join our IT team. You will be responsible for the server side of our web applications. \n If you have excellent programming skills and a passion for developing applications or improving existing ones, we would like to meet you. As a Back-end developer, you'll work closely with our engineers to ensure system consistency and improve user experience. \n Ultimately, you should be able to develop and maintain functional and stable web applications to meet our company's needs."
+    },
+    {
+        "id": 3,
+        "img": "/images/developer.jpg",
+        "position": "Application Developer",
+        "salary": "25,000 - 50,000",
+        "job_details": "We are seeking a qualified and talented Application Developer to join our team. In this role, you will be responsible for designing and coding functional programs and applications. You will collaborate with a team of professionals, but also work independently with minimal supervision. \n The ideal candidate for this position will possess excellent knowledge of at least one programming language and have a strong understanding of various operating systems and platforms. An analytical mindset and attention to detail are essential qualities for success in this role. \n Your primary objective as an Application Developer will be to write clean and flawless code, ensuring the development of fully functional software applications that meet specific requirements. \n Join our team and contribute to the creation of innovative software solutions that drive our business forward."
+    },
+    {
+        "id": 4,
+        "img": "/images/developer.jpg",
+        "position": "Software Developer",
+        "salary": "25,000 - 50,000",
+        "job_details": "We are looking for a Software Developer to build and implement functional programs. You will work with other Developers and Product Managers throughout the software development life cycle. \n In this role, you should be a team player with a keen eye for detail and problem-solving skills. If you also have experience in Agile frameworks and popular coding languages (e.g. JavaScript), we'd like to meet you. \n Your goal will be to build efficient programs and systems that serve user needs."
+    },
+    {
+        "id": 5,
+        "img": "/images/developer.jpg",
+        "position": "Web Designer",
+        "salary": "25,000 - 50,000",
+        "job_details": "We are looking for a talented Web Designer to create amazing user experiences. The ideal candidate should have an eye for clean and artful web design. They should also have superior user interface design skills. \n The successful candidate will be able to translate high-level requirements into interaction flows and artifacts. They will be able to transform them into beautiful, intuitive, and functional designs."
+    },
+    {
+        "id": 6,
+        "img": "/images/developer.jpg",
+        "position": "UI/UX Designer",
+        "salary": "25,000 - 50,000",
+        "job_details": "We are looking for a UI/UX Designer to turn our software into easy-to-use products for our clients. \n UI/UX Designer responsibilities include gathering user requirements, designing graphic elements and building navigation components. To be successful in this role, you should have experience with design software and wireframe tools. If you also have a portfolio of professional design projects that includes work with web/mobile applications, we'd like to meet you. \n Ultimately, you'll create both functional and appealing features that address our clients' needs and help us grow our customer base."
+    }
+]

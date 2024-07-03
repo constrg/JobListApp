@@ -1,0 +1,64 @@
+@font-face {
+  font-family: 'gabarito';
+  src: url('./assets/font/Gabarito-Regular.ttf'), format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'gabarito';
+  src: url('./assets/font/Gabarito-Bold.ttf'), format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+:root {
+
+  --clr-light: #fff;
+  --clr-dark: #000;
+  --clr-dark-light: #1a1a1a;
+  --clr-gray: #505050;
+  --clr-accent: #8c16ec;
+  --clr-accent-hover: #921ef1;
+
+  --ff: 'gabarito';
+  --fw-regular: 400;
+  --fw-bold: 700;
+
+  --fs-sm: 0.75rem;
+  --fs-base: 1rem;
+  --fs-md: 1.563rem;
+  --fs-lg: 3.75rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--ff);
+  font-weight: var(--fw-regular);
+}
+
+body {
+  background-color: var(--clr-dark-light);
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+}
+
+.container {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding-inline: 20px;
+}
